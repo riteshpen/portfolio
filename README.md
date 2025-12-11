@@ -1,7 +1,6 @@
 # Data Scientist
 
-<img width="343" alt="logo" src="https://github.com/user-attachments/assets/fd2e277e-9917-400f-b55b-e03d092b8040">
-
+<img width="264" height="346" alt="Image" src="https://github.com/user-attachments/assets/c5d92795-e142-4e17-80ac-c879ed8097c5" />
 
 ## Projects
 
