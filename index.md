@@ -63,4 +63,11 @@ July 2024 - Sep 2024
 - Reduced false positives by 35%, ensuring reliable detection of misinformation.
 - Designed a web interface allowing users to analyze news content interactively, boosting engagement by 30%.
 
+### **[The Impact of Malaria Prevention Measures on Child Mortality](https://github.com/riteshpen/Malaria_Incidence)**
+Sep 2025 – Dec 2025
 
+- Studied UNICEF and World Bank data to evaluate how malaria prevention efforts (ITNs) relate to child mortality across diverse regions and income groups.
+- Created an interactive global dashboard with geospatial maps and income-stratified visualizations to communicate health disparities.
+- Used Random Forest modeling and fairness metrics (Brier Score) to assess predictive reliability across income subgroups.
+- Identified a minimal direct relationship between ITN coverage and mortality (r = 0.13), highlighting socioeconomic inequalities as key drivers.
+- Provided evidence-based insights on equitable ITN distribution and health policy targeting.
