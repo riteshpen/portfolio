@@ -71,3 +71,10 @@ Sep 2025 – Dec 2025
 - Used Random Forest modeling and fairness metrics (Brier Score) to assess predictive reliability across income subgroups.
 - Identified a minimal direct relationship between ITN coverage and mortality (r = 0.13), highlighting socioeconomic inequalities as key drivers.
 - Provided evidence-based insights on equitable ITN distribution and health policy targeting.
+
+### **[Camera Traffic Analysis](https://github.com/riteshpen/Camera_Traffic_Analysis)**
+Sep 2025 - Dec 2025
+- Conducted a comprehensive analysis of Austin traffic patterns using a structured workflow that included exploratory data analysis (EDA), predictive modeling, and final reporting.
+- Performed hypothesis testing and data exploration to identify key traffic trends, variables, and factors influencing roadway conditions.
+- Developed and evaluated machine learning models, including Linear Regression and Random Forest, to predict traffic outcomes and analyze the impact of weather on traffic behavior.
+- Integrated findings into a final project with visualizations, model interpretability analyses (feature importance and SHAP), and a production-ready report documenting insights and recommendations.
