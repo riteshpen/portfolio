@@ -70,7 +70,16 @@ Sep 2025 – Dec 2025
 
 ### **[Camera Traffic Analysis](https://github.com/riteshpen/Camera_Traffic_Analysis)**
 Sep 2025 - Dec 2025
+
 - Conducted a comprehensive analysis of Austin traffic patterns using a structured workflow that included exploratory data analysis (EDA), predictive modeling, and final reporting.
 - Performed hypothesis testing and data exploration to identify key traffic trends, variables, and factors influencing roadway conditions.
 - Developed and evaluated machine learning models, including Linear Regression and Random Forest, to predict traffic outcomes and analyze the impact of weather on traffic behavior.
 - Integrated findings into a final project with visualizations, model interpretability analyses (feature importance and SHAP), and a production-ready report documenting insights and recommendations.
+
+### **[ResumeMatch](https://github.com/riteshpen/Resume_Match_AI)**
+May 2026 - Present
+
+- Built and deployed a full-stack AI web app that analyzes resumes against job descriptions, identifies ATS keyword gaps, and generates tailored, section-by-section rewrite suggestions using the Claude API.
+- Engineered a serverless proxy architecture to keep API credentials server-side, and implemented a dual PDF-parsing pipeline with an AI-based fallback to resolve font-encoding edge cases causing corrupted text extraction.
+- Designed the tailoring engine to guarantee suggestion coverage across every work experience and the professional summary, balancing thoroughness against review burden for the user.
+- Shipped resume templating, PDF export, and cover letter generation features, and deployed to production on a custom domain (resumematch.org) with job board integrations for Indeed, LinkedIn, Glassdoor, and ZipRecruiter.
