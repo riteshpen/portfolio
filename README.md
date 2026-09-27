@@ -6,7 +6,7 @@ I'm a Statistics & Data Science student at UT Austin, graduating December 2026. 
 
 [GitHub](https://github.com/riteshpen) [LinkedIn](https://www.linkedin.com/in/riteshpenumatsa/) [Email](mailto:riteshstem@gmail.com)
 
-Portrait of Ritesh Penumatsa
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/23b169fb-4542-4d6f-b65b-7e9f0621a896" />
 
 ## Experience
 
