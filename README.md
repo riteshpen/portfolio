@@ -1,7 +1,9 @@
 # Ritesh Penumatsa
 **Data Scientist** — Austin, TX · Statistics & Data Science, UT Austin (Dec 2026)
 
-I'm a Statistics & Data Science student at UT Austin, graduating December 2026. I build machine learning projects end-to-end — computer vision, NLP, and full-stack AI products — and I'm looking for full-stack data science roles.
+I'm a Statistics & Data Science student at UT Austin, graduating in December 2026. I build machine learning projects end-to-end — computer vision, NLP, and full-stack AI products — and I'm looking for full-stack data science roles.
+
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/23b169fb-4542-4d6f-b65b-7e9f0621a896" />
 
 [GitHub](https://github.com/riteshpen) · [LinkedIn](https://www.linkedin.com/in/riteshpenumatsa/) · [riteshstem@gmail.com](mailto:riteshstem@gmail.com) · 469-850-9940
 
